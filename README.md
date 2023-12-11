@@ -28,3 +28,6 @@
    Back to the game function, tell_names function is called and the players and assigned list is passed.
 
    Tell_names is the final function in which the names are given the function asks the user to input their name for it to reveal who he is gifting. In case the player submits the name wrong all the players names are given. When the player knows who he is gifting the program asks the user to hit enter and the console clears so the next players dont see prior players assignation. When all the players have been revealed the game will end.
+
+   ![image](https://github.com/victor-ibanez/CS50P_final_project/assets/42542819/c411f6f5-4d60-421e-90f4-2c3176e973a7)
+
